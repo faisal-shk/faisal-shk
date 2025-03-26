@@ -2,7 +2,7 @@
 
 🚀 Full-Stack Developer | 🌐 Web Enthusiast | 💡 Problem Solver
 
-🎓 Studying Computer Applications | 💼 Working in Junior Web Development
+🎓 Studying Computer Applications | 💼 Working as Junior Web Development
 
 🌟 About Me
 
@@ -14,9 +14,7 @@ My expertise lies in full-stack development, where I'm well-versed in both front
 
 🛠️ Tech Stack
 
-💻 Languages: HTML, CSS, JavaScript
-🔧 Front-end: React, Vue.js
-🔨 Back-end: Node.js, Express
+💻 Languages: HTML, CSS, JavaScript, Python
 📦 Databases: MongoDB, MySQL
 🌐 RESTful APIs | Version Control (Git)
 
