@@ -1,6 +1,6 @@
 👋 Hey there, I'm **Mohammed Faisal A Shaikh!**
 
-🚀 Full-Stack Developer | 🌐 Web Enthusiast | 💡 Problem Solver
+🚀 Full-Stack Developer | AI ML  | 🌐 Web Enthusiast | 💡 Problem Solver
 
 🎓 Studying Computer Applications | 💼 Working as Junior Web Development
 
