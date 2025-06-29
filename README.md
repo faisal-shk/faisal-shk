@@ -26,4 +26,4 @@ I'm a firm believer in continuous learning. I'm constantly exploring new tools, 
 
 Let's connect and collaborate! Feel free to reach out to me through LinkedIn or Twitter. I'm always excited to exchange ideas and collaborate on exciting projects.
 
-🚀 Let's Build the Future Together!
+🚀 Let's Build the Things Together!
