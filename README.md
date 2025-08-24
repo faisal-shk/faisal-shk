@@ -1,21 +1,21 @@
 👋 Hey there, I'm **Mohammed Faisal A Shaikh!**
 
-🚀 Full-Stack Developer | AI ML  | 🌐 Web Enthusiast | 💡 Problem Solver
+🚀 Full-Stack Developer | AI ML  | 🌐 Web Enthusiast | 💡 Problem Solver | Cyber Security
 
 🎓 Studying Computer Applications | 💼 Working as Junior Web Development
 
 🌟 About Me
 
-I'm a passionate and dedicated computer applications student with a knack for problem-solving and a keen eye for detail. Currently honing my skills in junior web development, I'm on an exciting journey to become a versatile and accomplished developer.
+I'm a Passionate and Dedicated Computer Applications Graduat with a knack for problem-solving and a keen eye for detail. Currently honing my skills in junior web development, I'm on an exciting journey to become a versatile and accomplished developer.
 
 🔧 What I Do
 
-My expertise lies in full-stack development, where I'm well-versed in both front-end and back-end technologies. I love turning ideas into functional, elegant, and user-friendly websites and applications.
+My expertise lies in Full-stack/ AI ML/ SAAS development, where I'm well-versed in both Front-end and Back-end Technologies. I love turning ideas into Functional, Elegant, and User-friendly Websites, Product and Applications.
 
 🛠️ Tech Stack
 
-💻 Languages: HTML, CSS, JavaScript, Python
-📦 Databases: MongoDB, MySQL
+💻 Languages: HTML, CSS, JavaScript, SQL, Python
+📦 Databases: MongoDB, MySQL, Supabase
 🌐 RESTful APIs | Version Control (Git)
 
 📚 Learning Never Stops
