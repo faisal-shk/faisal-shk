@@ -1,4 +1,4 @@
-👋 Hey there, I'm **Mohammed Faisal A Shaikh!**
+👋 Hey there, I'm **Faisal A Shaikh!**
 
 🚀 Full-Stack Developer | AI ML  | 🌐 Web Enthusiast | 💡 Problem Solver | Cyber Security
 
